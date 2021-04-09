@@ -25,26 +25,26 @@ object-assign
  */
 
 /*!
- * wavesurfer.js 3.3.3 (2020-04-16)
- * https://github.com/katspaugh/wavesurfer.js
+ * wavesurfer.js 4.6.0 (2021-03-05)
+ * https://wavesurfer-js.org
  * @license BSD-3-Clause
  */
 
 /*!
- * wavesurfer.js cursor plugin 3.3.3 (2020-04-16)
- * https://github.com/katspaugh/wavesurfer.js
+ * wavesurfer.js cursor plugin 4.6.0 (2021-03-05)
+ * https://wavesurfer-js.org
  * @license BSD-3-Clause
  */
 
 /*!
- * wavesurfer.js regions plugin 3.3.3 (2020-04-16)
- * https://github.com/katspaugh/wavesurfer.js
+ * wavesurfer.js regions plugin 4.6.0 (2021-03-05)
+ * https://wavesurfer-js.org
  * @license BSD-3-Clause
  */
 
 /*!
- * wavesurfer.js timeline plugin 3.3.3 (2020-04-16)
- * https://github.com/katspaugh/wavesurfer.js
+ * wavesurfer.js timeline plugin 4.6.0 (2021-03-05)
+ * https://wavesurfer-js.org
  * @license BSD-3-Clause
  */
 
@@ -78,15 +78,15 @@ See the Apache Version 2.0 License for specific language governing permissions
 and limitations under the License.
 ***************************************************************************** */
 
-/*! ./ajax */
+/*! ./absMax */
+
+/*! ./clamp */
 
 /*! ./drawer */
 
 /*! ./drawer.canvasentry */
 
 /*! ./drawer.multicanvas */
-
-/*! ./extend */
 
 /*! ./fetch */
 
@@ -124,95 +124,93 @@ and limitations under the License.
 
 /*! http://mths.be/fromcodepoint v0.1.0 by @mathias */
 
-/*! no static exports found */
-
 /*!***********************!*\
-        !*** ./src/drawer.js ***!
-        \***********************/
+          !*** ./src/drawer.js ***!
+          \***********************/
 
 /*!*************************!*\
-        !*** ./src/util/max.js ***!
-        \*************************/
+          !*** ./src/util/max.js ***!
+          \*************************/
 
 /*!*************************!*\
-        !*** ./src/util/min.js ***!
-        \*************************/
+          !*** ./src/util/min.js ***!
+          \*************************/
 
 /*!*************************!*\
-        !*** ./src/webaudio.js ***!
-        \*************************/
+          !*** ./src/webaudio.js ***!
+          \*************************/
 
 /*!**************************!*\
-        !*** ./src/peakcache.js ***!
-        \**************************/
-
-/*!**************************!*\
-        !*** ./src/util/ajax.js ***!
-        \**************************/
+          !*** ./src/peakcache.js ***!
+          \**************************/
 
 /*!***************************!*\
-        !*** ./src/util/fetch.js ***!
-        \***************************/
+          !*** ./src/util/clamp.js ***!
+          \***************************/
 
 /*!***************************!*\
-        !*** ./src/util/frame.js ***!
-        \***************************/
+          !*** ./src/util/fetch.js ***!
+          \***************************/
 
 /*!***************************!*\
-        !*** ./src/util/index.js ***!
-        \***************************/
+          !*** ./src/util/frame.js ***!
+          \***************************/
 
 /*!***************************!*\
-        !*** ./src/util/style.js ***!
-        \***************************/
+          !*** ./src/util/index.js ***!
+          \***************************/
 
 /*!***************************!*\
-        !*** ./src/wavesurfer.js ***!
-        \***************************/
+          !*** ./src/util/style.js ***!
+          \***************************/
+
+/*!***************************!*\
+          !*** ./src/wavesurfer.js ***!
+          \***************************/
 
 /*!****************************!*\
-        !*** ./src/util/extend.js ***!
-        \****************************/
+          !*** ./src/util/absMax.js ***!
+          \****************************/
 
 /*!****************************!*\
-        !*** ./src/util/get-id.js ***!
-        \****************************/
+          !*** ./src/util/get-id.js ***!
+          \****************************/
 
 /*!*****************************!*\
-        !*** ./src/mediaelement.js ***!
-        \*****************************/
+          !*** ./src/mediaelement.js ***!
+          \*****************************/
 
 /*!******************************!*\
-        !*** ./src/plugin/cursor.js ***!
-        \******************************/
-
-/*!******************************!*\
-        !*** ./src/util/observer.js ***!
-        \******************************/
+          !*** ./src/util/observer.js ***!
+          \******************************/
 
 /*!***********************************!*\
-        !*** ./src/drawer.canvasentry.js ***!
-        \***********************************/
+          !*** ./src/drawer.canvasentry.js ***!
+          \***********************************/
 
 /*!***********************************!*\
-        !*** ./src/drawer.multicanvas.js ***!
-        \***********************************/
+          !*** ./src/drawer.multicanvas.js ***!
+          \***********************************/
 
 /*!***********************************!*\
-        !*** ./src/util/prevent-click.js ***!
-        \***********************************/
+          !*** ./src/util/prevent-click.js ***!
+          \***********************************/
+
+/*!************************************!*\
+          !*** ./src/plugin/cursor/index.js ***!
+          \************************************/
 
 /*!**************************************!*\
-        !*** ./src/mediaelement-webaudio.js ***!
-        \**************************************/
+          !*** ./src/mediaelement-webaudio.js ***!
+          \**************************************/
 
 /*!****************************************!*\
-        !*** ./node_modules/debounce/index.js ***!
-        \****************************************/
+          !*** ./node_modules/debounce/index.js ***!
+          \****************************************/
 
 /*!*********************************************!*\
-        !*** ./src/util/request-animation-frame.js ***!
-        \*********************************************/
+          !*** ./src/util/request-animation-frame.js ***!
+          \*********************************************/
 
 /*!Please JS v0.4.2, Jordan Checkman 2014, Checkman.io, MIT License, Have fun.*/
 
